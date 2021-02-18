@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a1d25a5-e6da-4b13-b54b-99e9fe05c191" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_3_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_3_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Music2Application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Music2Application.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/music2application/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/music2application/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/music2application/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication2/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerViewTest/app/src/main/java/com/example/recyclerviewtest/FruitAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerViewTest/app/src/main/java/com/example/recyclerviewtest/FruitAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SunnyWeather/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SunnyWeather/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestActivity5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestActivity5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestActivity8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestActivity8/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebViewTest/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebViewTest/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HomeWork4/src/Level2.0/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HomeWork4/src/Level2.0/StuData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HomeWork4/src/Level2.0/StuSys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HomeWork4/src/Level2.0/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HomeWork4/src/Level3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/HomeWork4/src/Level3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HomeWork4/src/Level4/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/HomeWork4/src/Level4/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ZuoYe1.java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/ZuoYe1.java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/.idea/clion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/3.17.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/3.17.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/3.17.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/3.17.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/clion.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/clion.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/clion.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-console-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-multibyte-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-private-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/attach.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/awt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/dt_shmem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/dt_socket.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/fontmanager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/freetype.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/instrument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/j2gss.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/j2pcsc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/j2pkcs11.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jaas.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jabswitch.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jaccessinspector.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jaccesswalker.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jaotc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jar.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jarsigner.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/java.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/java.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/javaaccessbridge.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/javac.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/javadoc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/javajpeg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/javap.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/javaw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jawt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jcmd.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jconsole.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jdb.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jdeprscan.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jdeps.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jdwp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jfr.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jhsdb.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jimage.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jimage.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jinfo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jli.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jlink.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jmap.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jmod.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jpackage.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jpackage.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jps.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jrunscript.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jshell.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jsound.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jstack.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jstat.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/jstatd.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/keytool.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/kinit.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/klist.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/ktab.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/lcms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/le.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/management.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/management_agent.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/management_ext.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/mlib_image.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/msvcp140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/nio.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/prefs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/rmi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/rmid.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/rmiregistry.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/saproc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/serialver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/server/classes.jsa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/server/classes_nocoops.jsa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/server/jvm.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/splashscreen.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/sspi_bridge.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/sunec.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/sunmscapi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/ucrtbase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/vcruntime140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/vcruntime140_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/verify.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/w2k_lsa_auth.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/windowsaccessbridge-64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/bin/zip.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/management/jmxremote.access" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/management/jmxremote.password.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/management/management.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/net.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/security/java.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/security/java.security" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/security/policy/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/security/policy/limited/default_US_export.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/security/policy/limited/default_local.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/security/policy/limited/exempt_local.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/security/policy/unlimited/default_US_export.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/security/policy/unlimited/default_local.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/conf/sound.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/classfile_constants.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/jawt.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/jdwpTransport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/jni.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/jvmti.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/jvmticmlr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/win32/bridge/AccessBridgeCallbacks.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/win32/bridge/AccessBridgeCalls.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/win32/bridge/AccessBridgePackages.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/win32/jawt_md.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/include/win32/jni_md.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.base.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.compiler.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.datatransfer.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.desktop.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.instrument.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.logging.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.management.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.management.rmi.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.naming.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.net.http.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.prefs.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.rmi.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.scripting.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.se.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.security.jgss.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.security.sasl.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.smartcardio.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.sql.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.sql.rowset.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.transaction.xa.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.xml.crypto.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/java.xml.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.accessibility.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.aot.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.attach.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.charsets.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.compiler.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.crypto.cryptoki.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.crypto.ec.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.crypto.mscapi.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.dynalink.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.editpad.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.hotspot.agent.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.httpserver.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.incubator.foreign.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.incubator.jpackage.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.internal.ed.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.internal.jvmstat.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.internal.le.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.internal.opt.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.internal.vm.ci.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.internal.vm.compiler.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.internal.vm.compiler.management.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jartool.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.javadoc.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jcmd.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jconsole.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jdeps.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jdi.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jdwp.agent.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jfr.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jlink.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jshell.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jsobject.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.jstatd.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.localedata.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.management.agent.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.management.jfr.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.management.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.naming.dns.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.naming.rmi.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.net.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.nio.mapmode.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.sctp.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.security.auth.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.security.jgss.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.unsupported.desktop.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.unsupported.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.xml.dom.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/jmods/jdk.zipfs.jmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/aes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/asm.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/c-libutl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/cldr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/icu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/public_suffix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/unicode.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.base/zlib.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.compiler/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.compiler/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.compiler/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.datatransfer/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.datatransfer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/colorimaging.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/freetype.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/giflib.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/harfbuzz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/jpeg.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/lcms.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/libpng.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.desktop/mesa3d.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.instrument/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.instrument/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.instrument/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.logging/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.logging/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.logging/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.management.rmi/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.management.rmi/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.management/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.management/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.management/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.naming/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.naming/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.naming/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.net.http/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.net.http/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.net.http/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.prefs/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.prefs/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.prefs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.rmi/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.rmi/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.rmi/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.scripting/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.scripting/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.scripting/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.se/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.se/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.se/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.security.jgss/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.security.jgss/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.security.sasl/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.security.sasl/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.smartcardio/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.smartcardio/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.sql.rowset/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.sql.rowset/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.sql/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.sql/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.sql/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.transaction.xa/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.transaction.xa/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml.crypto/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml.crypto/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml.crypto/santuario.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml/bcel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml/dom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml/jcup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml/xalan.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/java.xml/xerces.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.accessibility/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.accessibility/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.aot/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.aot/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.aot/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.attach/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.attach/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.attach/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.charsets/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.charsets/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.compiler/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.compiler/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.compiler/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.cryptoki/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.cryptoki/pkcs11wrapper.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.ec/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.ec/ecc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.mscapi/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.mscapi/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.crypto.mscapi/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.dynalink/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.dynalink/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.dynalink/dynalink.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.editpad/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.editpad/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.editpad/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.hotspot.agent/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.hotspot.agent/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.hotspot.agent/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.httpserver/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.httpserver/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.incubator.foreign/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.incubator.foreign/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.incubator.foreign/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.incubator.jpackage/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.incubator.jpackage/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.incubator.jpackage/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.ed/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.ed/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.ed/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.jvmstat/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.jvmstat/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.jvmstat/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.le/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.le/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.le/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.le/jline.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.opt/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.opt/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.opt/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.opt/jopt-simple.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.vm.ci/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.vm.ci/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.vm.compiler.management/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.vm.compiler.management/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.vm.compiler.management/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.vm.compiler/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.vm.compiler/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.internal.vm.compiler/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jartool/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jartool/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jartool/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.javadoc/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.javadoc/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.javadoc/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.javadoc/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.javadoc/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jcmd/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jcmd/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jcmd/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jconsole/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jconsole/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jconsole/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jdeps/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jdeps/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jdeps/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jdi/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jdi/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jdi/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jdwp.agent/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jfr/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jfr/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jlink/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jlink/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jlink/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jshell/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jshell/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jshell/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jsobject/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jsobject/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jstatd/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jstatd/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.jstatd/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.localedata/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.localedata/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.localedata/cldr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.localedata/thaidict.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.management.agent/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.management.agent/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.management.jfr/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.management/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.management/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.management/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.naming.dns/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.naming.rmi/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.net/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.net/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.net/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.nio.mapmode/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.nio.mapmode/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.nio.mapmode/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.sctp/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.sctp/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.security.auth/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.security.auth/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.security.jgss/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.unsupported.desktop/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.unsupported.desktop/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.unsupported.desktop/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.unsupported/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.unsupported/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.xml.dom/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.zipfs/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/legal/jdk.zipfs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/classlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/ct.sym" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/fontconfig.bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/fontconfig.properties.src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/jawt.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/jfr/default.jfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/jfr/profile.jfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/jrt-fs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/jvm.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/jvm.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/modules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/psfont.properties.ja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/psfontj2d.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/security/blacklisted.certs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/security/cacerts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/security/default.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/security/public_suffix_list.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/tzdb.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/lib/tzmappings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jdk/release" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="ProjectId" id="1ns3Onzw7XkZlcy8nFhDmqDa2J6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Music2Application.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a1d25a5-e6da-4b13-b54b-99e9fe05c191" name="Default Changelist" comment="" />
+      <created>1612164941634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612164941634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="110" key="#PSD" timestamp="1613667515011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="200" y="110" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1613667515011" />
+    <state x="344" y="123" key="FileChooserDialogImpl" timestamp="1613668903998">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="344" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613668903998" />
+    <state x="529" y="261" key="Github.ShareDialog" timestamp="1613668421557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="529" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1613668421557" />
+    <state x="65" y="13" key="SettingsEditor" timestamp="1613667847821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613667847821" />
+  </component>
+</project>
